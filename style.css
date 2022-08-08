@@ -21,9 +21,9 @@ body{
    font-size: 15px;
    font-weight: 600;
    padding: 13px;
-   -webkit-box-shadow: 1px 1px 20px 0 #000000;
-   -moz-box-shadow: 1px 1px 20px 0 #000000;
-   box-shadow: 1px 1px 20px 0 #000000;
+   -webkit-box-shadow: 1px 1px 6px 0 #0059A0;
+   -moz-box-shadow: 1px 1px 6px 0 #0059A0;
+   box-shadow: 1px 1px 6px 0 #0059A0;
    text-shadow: 1px 1px 20px #000000;
    border: solid #337FED 1px;
    text-decoration: none;

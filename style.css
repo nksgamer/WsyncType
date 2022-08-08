@@ -4,13 +4,14 @@ body{
 }
 
 
+
 .mods {
   font-size:18px;
   font-family:Arial Black;
-  width:109px;
-  height:45px;
+  width:200px;
+  height:100px;
   border-width:0px;
-  color:#4E5754;
+  color:#fff;
   border-color:#599bb3;
   font-weight:bold;
   border-top-left-radius:0px;

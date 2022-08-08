@@ -1,5 +1,4 @@
 body{
-  background: #5D5A5A url(./img/1576510-fundo-plano-cor-solida-abstrata-grátis-vetor.jpg) center top/auto no-repeat;
-  width: auto;
-  height: auto;
+  background: rgb(29,45,253);
+  background: linear-gradient(90deg, rgba(29,45,253,1) 0%, rgba(87,99,252,1) 50%, rgba(122,129,251,0.9640231092436975) 100%);
 }

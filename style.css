@@ -3,23 +3,21 @@ body{
   background: linear-gradient(90deg, rgba(29,45,253,1) 0%, rgba(87,99,252,1) 50%, rgba(122,129,251,0.9640231092436975) 100%);
 }
 
-
-
 .mods {
-  font-size:18px;
-  font-family:Arial Black;
-  width:200px;
-  height:100px;
-  border-width:0px;
+  font-size:15px;
+  font-family:Arial;
+  width:140px;
+  height:50px;
+  border-width:1px;
   color:#fff;
   border-color:#599bb3;
   font-weight:bold;
-  border-top-left-radius:0px;
-  border-top-right-radius:0px;
-  border-bottom-left-radius:0px;
-  border-bottom-right-radius:0px;
-  box-shadow: 0px 10px 29px -7px #276873;
-  text-shadow: 0px 4px 0px #3d768a;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+  box-shadow: 0px 10px 14px -7px #276873;
+  text-shadow: 0px 1px 0px #3d768a;
   background:linear-gradient(#599bb3, #408c99);
 }
 

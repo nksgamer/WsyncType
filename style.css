@@ -3,6 +3,10 @@ body{
   background: linear-gradient(90deg, rgba(29,45,253,1) 0%, rgba(87,99,252,1) 50%, rgba(122,129,251,0.9640231092436975) 100%);
 }
 
+.Barra{
+  backgroud-color: #fff;
+}
+
 .mods {
    background: #3D94F6;
    background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);

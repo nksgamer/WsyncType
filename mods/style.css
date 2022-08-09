@@ -1,0 +1,39 @@
+body{
+  background: rgb(29,45,253);
+  background: linear-gradient(90deg, rgba(29,45,253,1) 0%, rgba(87,99,252,1) 50%, rgba(122,129,251,0.9640231092436975) 100%);
+}
+
+.Barra{
+  background: #3D94F6;
+  width: auto;
+  height: 55px;
+}
+
+.mods {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   height: 25px;
+   line-height: 25px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 165px;
+   font-size: 15px;
+   font-weight: 600;
+   padding: 13px;
+   -webkit-box-shadow: 1px 1px 6px 0 #0059A0;
+   -moz-box-shadow: 1px 1px 6px 0 #0059A0;
+   box-shadow: 1px 1px 6px 0 #0059A0;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}

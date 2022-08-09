@@ -4,9 +4,9 @@ body{
 }
 
 .Barra{
-  backgroud-color: #fff;
-  width: 25px;
-  height: 25px;
+  background: #3D94F6;
+  width: auto;
+  height: 55px;
 }
 
 .mods {

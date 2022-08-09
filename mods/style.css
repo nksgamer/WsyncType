@@ -7,9 +7,9 @@ body{
   background: #3D94F6;
   width: auto;
   height: 800px;
-  box-shadow: 2px -1px 14px 0px rgba(0,0,0,0.75) inset;
-  -webkit-box-shadow: 2px -1px 14px 0px rgba(0,0,0,0.75) inset;
-  -moz-box-shadow: 2px -1px 14px 0px rgba(0,0,0,0.75) inset;
+  box-shadow: 2px -1px 5px 0px rgba(0,0,0,0.75) inset;
+  -webkit-box-shadow: 2px -1px 5px 0px rgba(0,0,0,0.75) inset;
+  -moz-box-shadow: 2px -1px 5px 0px rgba(0,0,0,0.75) inset;
   text-align: center;
 }
 
@@ -17,9 +17,9 @@ body{
   background: #3D94F6;
   width: 225px;
   height: 225px;
-  box-shadow: 2px -1px 10px 0px rgba(0,0,0,0.75) inset;
-  -webkit-box-shadow: 2px -1px 14px 0px rgba(0,0,0,0.75) inset;
-  -moz-box-shadow: 2px -1px 14px 0px rgba(0,0,0,0.75) inset;
+  box-shadow: 2px -1px 5px 0px rgba(0,0,0,0.75) inset;
+  -webkit-box-shadow: 2px -1px 5px 0px rgba(0,0,0,0.75) inset;
+  -moz-box-shadow: 2px -1px 5px 0px rgba(0,0,0,0.75) inset;
   text-align: center;
 }
 

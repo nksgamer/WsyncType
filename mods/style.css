@@ -20,7 +20,7 @@ body{
   box-shadow: 2px -1px 14px 0px rgba(0,0,0,0.75) inset;
   -webkit-box-shadow: 2px -1px 14px 0px rgba(0,0,0,0.75) inset;
   -moz-box-shadow: 2px -1px 14px 0px rgba(0,0,0,0.75) inset;
-  text-align: left;
+  text-align: justify;
 }
 
 .Barra{

@@ -40,11 +40,11 @@ body{
    -webkit-border-radius: 0;
    -moz-border-radius: 0;
    border-radius: 0;
-   height: 25px;
+   height: auto;
    line-height: 25px;
    color: #FFFFFF;
    font-family: Arial;
-   width: 165px;
+   width: auto;
    font-size: 15px;
    font-weight: 600;
    padding: 13px;

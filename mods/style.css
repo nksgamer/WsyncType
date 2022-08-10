@@ -16,7 +16,7 @@ body{
 .modsratlantis{
   background: #3D94F6;
   font-family: "Lato", sans-serif;
-  width: 225px;
+  width: auto;
   height: auto;
   box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75) inset;
   -webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75) inset;
